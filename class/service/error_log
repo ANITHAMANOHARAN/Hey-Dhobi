@@ -1,0 +1,9 @@
+[21-Dec-2016 12:24:27 Asia/Calcutta] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/mcaca679/public_html/heydhobi.com/class/service/db_connect.php on line 9
+[21-Dec-2016 12:24:27 Asia/Calcutta] PHP Warning:  PDO::__construct(): Error while reading greeting packet. PID=398874 in /home/mcaca679/public_html/heydhobi.com/class/service/db_connect.php on line 9
+[21-Dec-2016 12:28:15 Asia/Calcutta] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/mcaca679/public_html/heydhobi.com/class/service/db_connect.php on line 26
+[21-Dec-2016 12:28:15 Asia/Calcutta] PHP Warning:  PDO::__construct(): Error while reading greeting packet. PID=401969 in /home/mcaca679/public_html/heydhobi.com/class/service/db_connect.php on line 26
+[21-Dec-2016 12:32:38 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): MySQL server has gone away in /home/mcaca679/public_html/heydhobi.com/class/service/db_connect.php on line 37
+[21-Dec-2016 12:32:38 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): Error while reading greeting packet. PID=405303 in /home/mcaca679/public_html/heydhobi.com/class/service/db_connect.php on line 37
+[21-Dec-2016 12:32:38 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): (HY000/2006): MySQL server has gone away in /home/mcaca679/public_html/heydhobi.com/class/service/db_connect.php on line 37
+[21-Dec-2016 12:34:07 Asia/Calcutta] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/mcaca679/public_html/heydhobi.com/class/service/db_connect.php on line 9
+[21-Dec-2016 12:34:07 Asia/Calcutta] PHP Warning:  PDO::__construct(): Error while reading greeting packet. PID=406374 in /home/mcaca679/public_html/heydhobi.com/class/service/db_connect.php on line 9
